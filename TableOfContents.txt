@@ -1,0 +1,44 @@
+Alexander Hu - mypetsq
+	"Pet" square. Well commented and formatted. Majority of the program is just in draw instead of split into other functions.
+
+Ander Garcia - 
+submitted folder was empty
+
+Annaleigh Gedney - Final_Project
+	Grid of squares containing different cycling gradients. The up and down arrows increase and decrease the number of squares drawn. Left and right change color modes to and from RGB (red and black) and HSB. Fairly simple but well commented, formatted, and executed.
+
+Ben Bailey - heretic
+	A "pretentious music review generator". Many of the sentence structures are hard coded, as the random generation makes clear through its frequent repetition. Decent use of functions, though some could probably have been combined and used a passed variable to decide what to return. Could be better commented and organized. Very cool concept though and reasonably well executed overall.
+
+Ben Heselton-Clements - Ben_Clements
+	Music score generator. Much of it is hard coded and unecessarily repetitive.
+
+Bryan Prieto - Interactive_Pet
+	Pet on a forest background. When the spacebar is pressed it says something and stops looping. Would have preferred to see it say something and still follow the mouse with its eyes. The sentences generated are generated randomly.
+
+Gabrielle Morell - final_project
+	Creates a faint grid and places random letters in it to make a crossword. Prints which square was clicked to the console. Seems to have comments written by another student helping but no mention is made of who. Commented out lines are also left in.
+
+Howard Fuller - Orbit_Final
+	Draws a simple solar system with somewhat accurate orbits. Seems to be entirely hard coded.
+
+Kristen Peterson - Final_project
+	Conway's Game of Life with static shapes uniquely colored. External code cited well. Code is well commented. Enormous amount of conditionals. I didn't go through to make sure all of them are necessary. Initial setup appears to be hard coded.
+
+Loren Skinner - Flow_Improv_v3_Final_Project
+	Outputs to the console four lines of musical notes from a set key with a random rhythm. Decently commented.
+
+Matthew Fullmer - ToolShed
+	Hilarious and clever project. Takes every tool project he had access to and attempts to integrate them. Comments mark who owns which code as well as some of the changes that had to be made and how things work.
+
+Meghan Straus - ProgCreativity_Final_Project
+	Random character generator. Very clever and fun. Very little redundant code and good enough comments for the simplicity of the program.
+
+Quinn Roberts - final_project
+	Submitted with an error. When fixed, the program displays a grid allowing a user to choose the order and number of different word types for random sentence generation. Sentences can also be saved. Decently commented.
+
+Robert Shepardson - was_the_cowman_interactive_backup (I think?)
+	Prints a simple random story featuring a few characters into a text area. The area is editable, which might be unintended. It appears to ask for input but I could not get it to work. Much of the code is uncommented.
+
+Valentina Forte-Hernandez - place_dots
+	Gets the feed from an internal camera and lets the user place dots on the image that the program connects with lines. Image included to show the program working.
